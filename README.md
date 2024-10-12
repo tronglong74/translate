@@ -2,30 +2,6 @@
 
 **Blink-hash: Một chỉ mục kết hợp thích ứng cho cơ sở dữ liệu chuỗi thời gian lưu trữ trong bộ nhớ**
 
-**Hokeun Cha**  
-Đại học Wisconsin-Madison  
-hcha@cs.wisc.edu  
-
-**Xiangpeng Hao**  
-Đại học Wisconsin-Madison  
-xiangpeng.hao@wisc.edu  
-
-**Tianzheng Wang**  
-Đại học Simon Fraser  
-tzwang@sfu.ca  
-
-**Huanchen Zhang**  
-Đại học Thanh Hoa  
-huanchen@tsinghua.edu.cn  
-
-**Aditya Akella**  
-Đại học Texas tại Austin  
-akella@cs.utexas.edu  
-
-**Xiangyao Yu**  
-Đại học Wisconsin-Madison  
-yxy@cs.wisc.edu  
-
 ---
 
 ### Tóm tắt
