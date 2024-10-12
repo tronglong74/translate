@@ -1,6 +1,4 @@
-Dưới đây là bản dịch đầy đủ của bài báo từ các phần tôi đã gửi trước đó, được tổng hợp lại theo yêu cầu của bạn:
 
----
 
 **Blink-hash: Một chỉ mục kết hợp thích ứng cho cơ sở dữ liệu chuỗi thời gian lưu trữ trong bộ nhớ**
 
@@ -114,5 +112,3 @@ Chúng tôi đánh giá khả năng mở rộng của các chỉ mục khi tăng
 Chúng tôi đã giới thiệu **Blink-hash**, một chỉ mục kết hợp thích ứng cho cơ sở dữ liệu chuỗi thời gian lưu trữ trong bộ nhớ, kết hợp ưu điểm của cả cây B+ và chỉ mục băm. **Blink-hash** vượt trội hơn các chỉ mục truyền thống trong các thao tác chèn đơn điệu và quét phạm vi. Với khả năng mở rộng tuyến tính, **Blink-hash** mang lại hiệu suất cao hơn đến 91,3 lần so với các chỉ mục khác trong tải công việc chuỗi thời gian.
 
 ---
-
-Đây là toàn bộ bản dịch của bài báo. Nếu bạn có thêm yêu cầu hoặc câu hỏi nào, hãy cho tôi biết nhé!
